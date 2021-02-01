@@ -7,17 +7,15 @@ namespace Qcrotty_Exercise6
     public class BankAcc
     {
         public decimal Balance { get; set; }
-        ///////////////////////////////////////////////////////////      
+             
         public List<decimal> Transactions
         {
             get { return transactions; } set { transactions = value; }  
             
         }
-
-                  //this is how I saw someone online get a list as property, is there a more efficient way to do this?
-
+           
         private List<decimal> transactions = new List<decimal>();
-        //////////////////////////////////////////////////////////                                                        
+                                                            
         public enum AccStatus
         {
             Successful,Overdrawn,Insufficient_Funds,Deposit_Too_Large
