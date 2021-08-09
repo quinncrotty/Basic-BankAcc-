@@ -1,0 +1,30 @@
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.exe
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.deps.json
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.runtimeconfig.json
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.dll
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.pdb
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.Form1.resources
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.csproj.GenerateResource.cache
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.AssemblyInfo.cs
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.dll
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.pdb
+C:\Users\quinn\Desktop\CSCC\Fall 2020\C# Programming\Home Work\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.genruntimeconfig.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.exe
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.deps.json
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.runtimeconfig.json
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.dll
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Qcrotty_Exercise6.pdb
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.Form1.resources
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.csproj.GenerateResource.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.AssemblyInfo.cs
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.dll
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.pdb
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.genruntimeconfig.cache

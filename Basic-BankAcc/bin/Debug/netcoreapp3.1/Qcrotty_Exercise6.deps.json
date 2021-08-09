@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Qcrotty_Exercise6/1.0.0": {
+        "runtime": {
+          "Qcrotty_Exercise6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qcrotty_Exercise6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

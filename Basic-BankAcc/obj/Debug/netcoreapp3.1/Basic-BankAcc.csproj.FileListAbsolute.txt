@@ -1,0 +1,15 @@
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Basic-BankAcc.exe
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Basic-BankAcc.deps.json
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Basic-BankAcc.runtimeconfig.json
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Basic-BankAcc.runtimeconfig.dev.json
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Basic-BankAcc.dll
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\bin\Debug\netcoreapp3.1\Basic-BankAcc.pdb
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.csprojAssemblyReference.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Qcrotty_Exercise6.Form1.resources
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.csproj.GenerateResource.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.AssemblyInfoInputs.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.AssemblyInfo.cs
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.csproj.CoreCompileInputs.cache
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.dll
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.pdb
+C:\Users\quinn\Desktop\CSCC\Autumn 2020\C# Programming\Qcrotty_Exercise6\Qcrotty_Exercise6\obj\Debug\netcoreapp3.1\Basic-BankAcc.genruntimeconfig.cache
